@@ -108,6 +108,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controllers\Cost.cs" />
+    <Compile Include="Controllers\CostResult.cs" />
+    <Compile Include="Controllers\ExpensesListController.cs" />
     <Compile Include="Controllers\ShoppingListController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
